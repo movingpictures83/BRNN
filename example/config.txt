@@ -1,0 +1,2 @@
+Prefix plugins/BRNN/example/
+Plugin BRNN inputfile parameters.train.txt outputfile output.rds
